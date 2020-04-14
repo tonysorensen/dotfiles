@@ -1,0 +1,1 @@
+Just a collection of dotfiles to make reinstalls easier.
